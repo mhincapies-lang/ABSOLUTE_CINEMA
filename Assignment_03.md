@@ -26,3 +26,13 @@ Me gusta trabajar en equipo, se usar Jira u otros software de manejo de tareas, 
 
 Me gustaria mejorar mi manejo del tiempo con mi equipo, ya que estudio 3 carreras y trabajo por lo cual el tiempo que tengo es muy limitado y muchas veces mi equipo de trabajo no puede contar con el mismo espacio que yo para hacer algunas de las actividades.
 
+
+
+Lee Angelo Powell Brant 
+
+Me gustaría desempeñar un rol enfocado en el desarrollo y diseño de videojuegos, participando tanto en la implementación de funcionalidades como en la solución de problemas técnicos dentro del equipo. Me interesa especialmente el área de desarrollo de software interactivo, ya que desde pequeño he tenido afinidad por los videojuegos y curiosidad por entender cómo funcionan internamente. Me motiva la idea de trabajar en una empresa dedicada al desarrollo de videojuegos y aportar a la creación de experiencias innovadoras.
+
+Entre mis fortalezas considero que destaco en la colaboración y el trabajo en equipo. Me gusta escuchar las ideas de los demás, dialogar y buscar soluciones conjuntas. También suelo involucrarme en diferentes aspectos del proyecto, incluso en áreas que no domino completamente, porque veo cada reto como una oportunidad para aprender. Me considero una persona empática, con disposición para apoyar a mis compañeros y contribuir al ambiente de trabajo.
+
+En cuanto a los aspectos a mejorar, reconozco que debo trabajar en la gestión del tiempo y en planificar las tareas con mayor anticipación. A veces tiendo a concentrarme demasiado en mis propios problemas, lo que puede afectar mi rendimiento. Considero que fortalecer mi disciplina y organización me permitirá ser un integrante más sólido y constante dentro del equipo.
+
