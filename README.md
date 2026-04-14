@@ -9,10 +9,12 @@ JUAN JOSE GUZMAN PULIDO/ juguzmanp@unal.edu.co
 MIGUEL ANGEL HINCAPIE SANTACRUZ/ mhincapies@unal.edu.co
 
 DESCRIPCIÓN DEL PROYECTO: 
-El presente proyecto tiene como finalidad desarrollar una plataforma digital destinada a la organizacion y gestion de torneos de diversa indole, integrando herramientas de transmision en vivo (streaming) y un sistema interactivo de predicciones. La plataforma permitira que usuarios externos participen realizando apuestas basadas tanto en lo que observan en tiempo real como en recomendaciones generadas automaticamente por el sistema, las cuales se fundamentan en un analisis estadistico historico.
-A diferencia de otras soluciones existentes, el sistema se caracteriza por su alta accesibilidad y flexibilidad, ya que posibilita la organizacion de cualquier tipo de competencia siempre que exista interes por parte de competidores o espectadores. De esta manera, no se limita a una disciplina especifica, sino que ofrece un entorno adaptable a multiples contextos competitivos.
-Adicionalmente, la plataforma fomenta la interaccion y el compromiso de los usuarios al permitirles realizar predicciones y obtener recompensas en funcion de sus aciertos. Asimismo, contempla la opcion de organizar competencias dirigidas exclusivamente a espectadores, quienes podran realizar predicciones sobre eventos externos que no necesariamente hayan sido creados dentro del sistema.
-En conjunto, el proyecto busca integrar organizacion, transmision y analisis predictivo en un solo entorno digital, promoviendo una experiencia dinamica, participativa y accesible para todos los usuarios.
+
+ScoreCast es una plataforma digital orientada a la organización y gestión de torneos de diferentes disciplinas, integrando herramientas de transmisión en vivo (streaming) y un sistema interactivo de predicciones.
+A diferencia de otras soluciones tradicionales, ScoreCast no se limita únicamente a la gestión de competencias, sino que busca ofrecer una experiencia más dinámica y participativa. Los usuarios pueden realizar predicciones basadas en lo que ocurre en tiempo real, así como apoyarse en recomendaciones generadas automáticamente a partir de análisis estadísticos históricos.
+El sistema está diseñado para ser flexible y accesible, permitiendo la creación de distintos tipos de torneos según las necesidades de organizadores y participantes. Además, no se enfoca en una sola disciplina, sino que se adapta a múltiples contextos competitivos.
+ScoreCast también promueve la interacción y el compromiso de los usuarios mediante un sistema de recompensas basado en la precisión de sus predicciones. Asimismo, permite la participación en eventos externos al sistema, ampliando las posibilidades de uso para los espectadores.
+En conjunto, la plataforma integra organización, transmisión y análisis predictivo en un solo entorno digital, ofreciendo una experiencia moderna, participativa y accesible para todos los usuarios.
 
 LOGO: <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/44d45cfd-3659-4322-a420-0c2238c40860" />
 
